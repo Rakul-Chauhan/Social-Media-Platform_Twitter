@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Spring Boot-based social media platform that allows users to sign up, log in, create and manage posts and comments, and view user profiles and feeds.
+A Spring Boot-based social media platform that allows users to sign up, log in, create and manage posts and comments, and view user profiles and feeds.
 
 ## Features
 
